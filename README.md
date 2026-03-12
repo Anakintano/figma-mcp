@@ -219,4 +219,5 @@ pytest tests/ -v
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
+Copyright © 2026 Aditya Saxena / anakintano
