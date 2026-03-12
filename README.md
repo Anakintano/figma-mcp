@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="80" height="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://mintlify.s3.us-west-1.amazonaws.com/mcp/logo/dark.svg" alt="MCP" width="80" height="80" />
+  <img src="https://mintlify.s3.us-west-1.amazonaws.com/mcp/logo/dark.svg" alt="MCP" width="380" height="380" />
 </p>
 
 <h1 align="center">figma-mcp</h1>
